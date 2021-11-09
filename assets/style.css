@@ -1,0 +1,27 @@
+html{
+    height: auto;
+    min-width: 100%;
+}
+
+body{
+    background: linear-gradient(to right, #023e8a, #caf0f8);
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    margin: 3rem;
+}
+
+table, th, td{
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.listado{
+    margin-inline: auto;
+    width: 50%;
+    font-size: 23px;
+    background-color: #caf0f8;    
+}
